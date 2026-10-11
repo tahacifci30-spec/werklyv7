@@ -1,0 +1,26 @@
+[
+ {
+  "id": "call-1791656764122-4sfvkk",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "kind": "item",
+  "title": "Gesprek met Murat Ezan (Yarraminbasi), bel 0631963169",
+  "date": "2026-10-13",
+  "date_to": null,
+  "start": "14:00",
+  "end": "14:30",
+  "who": "Eigenaar",
+  "created_by": "Website"
+ },
+ {
+  "id": "call-1791627269699-kxuc7j",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "kind": "item",
+  "title": "Gesprek met Taha (Apple), bel 0611200883",
+  "date": "2026-10-15",
+  "date_to": null,
+  "start": "11:00",
+  "end": "11:30",
+  "who": "Eigenaar",
+  "created_by": "Website"
+ }
+]

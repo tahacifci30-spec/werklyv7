@@ -1,0 +1,6205 @@
+[
+ {
+  "id": "03947be6-f5ef-454c-8b93-9d2ca86eeeec",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-11-03T09:00:00+00:00",
+  "customer": {
+   "city": "Vught",
+   "name": "Jesse Koning",
+   "email": "jesse.30@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 32",
+   "postcode": "5262 EE"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2250,
+   "min": 1800,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-07-07",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-07-19T08:00:00.000Z",
+   "decided_at": "2026-07-19T08:00:00.000Z",
+   "generated_at": "2026-07-19T08:00:00.000Z"
+  },
+  "token": "2493f6ca65eb476fabf5b672d09a086f",
+  "consent_at": "2025-11-03T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-11-03T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-11-03T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-07-23T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-07-18",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0019",
+   "paid_at": "2026-07-23T10:00:00.000Z",
+   "sent_at": "2026-07-19T08:00:00.000Z",
+   "due_date": "2026-08-02",
+   "created_at": "2026-07-19T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "4dbe416f-2d86-4908-ab8b-121f0a763bd2",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-11-12T09:00:00+00:00",
+  "customer": {
+   "city": "Tilburg",
+   "name": "Jens Peeters",
+   "email": "jens@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5011 ST"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2025-11-26",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3200
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2025-12-08T09:00:00.000Z",
+   "decided_at": "2025-12-08T09:00:00.000Z",
+   "generated_at": "2025-12-08T09:00:00.000Z"
+  },
+  "token": "852e6b0ff49740f3bc341c41b0321e3b",
+  "consent_at": "2025-11-12T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-11-12T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-11-12T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2025-12-12T09:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2025-12-07",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3200
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0011",
+   "paid_at": "2025-12-12T11:00:00.000Z",
+   "sent_at": "2025-12-08T09:00:00.000Z",
+   "due_date": "2025-12-22",
+   "created_at": "2025-12-08T09:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "f1b9004f-2066-4495-8fb6-2a917942d76b",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-11-14T09:00:00+00:00",
+  "customer": {
+   "city": "Veldhoven",
+   "name": "Femke Rademakers",
+   "email": "femke.29@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 31",
+   "postcode": "5503 DD"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-07-20",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-08-01T08:00:00.000Z",
+   "decided_at": "2026-08-01T08:00:00.000Z",
+   "generated_at": "2026-08-01T08:00:00.000Z"
+  },
+  "token": "6ef252b08e1a4c07bcd02022d173c393",
+  "consent_at": "2025-11-14T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-11-14T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-11-14T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-08-05T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-07-31",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0018",
+   "paid_at": "2026-08-05T10:00:00.000Z",
+   "sent_at": "2026-08-01T08:00:00.000Z",
+   "due_date": "2026-08-15",
+   "created_at": "2026-08-01T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "717f3c35-d42d-44f1-a1ce-af845db6e4b7",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-11-25T09:00:00+00:00",
+  "customer": {
+   "city": "Uden",
+   "name": "Bas Dekker",
+   "email": "bas.28@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 30",
+   "postcode": "5402 CC"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-08-02",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-08-14T08:00:00.000Z",
+   "decided_at": "2026-08-14T08:00:00.000Z",
+   "generated_at": "2026-08-14T08:00:00.000Z"
+  },
+  "token": "ccd71452283d4ece8a1442676eb1b95b",
+  "consent_at": "2025-11-25T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-11-25T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-11-25T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-08-18T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-08-13",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0017",
+   "paid_at": "2026-08-18T10:00:00.000Z",
+   "sent_at": "2026-08-14T08:00:00.000Z",
+   "due_date": "2026-08-28",
+   "created_at": "2026-08-14T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "ea122d19-db03-4d7f-89f9-df3c9601895f",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-12-06T09:00:00+00:00",
+  "customer": {
+   "city": "Oss",
+   "name": "Lotte Vermeer",
+   "email": "lotte.27@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 29",
+   "postcode": "5342 BB"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2350,
+   "min": 1900,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-08-15",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-08-27T08:00:00.000Z",
+   "decided_at": "2026-08-27T08:00:00.000Z",
+   "generated_at": "2026-08-27T08:00:00.000Z"
+  },
+  "token": "b57d6266e11d447c9902b97812538579",
+  "consent_at": "2025-12-06T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-12-06T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-12-06T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-08-31T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-08-26",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0016",
+   "paid_at": "2026-08-31T10:00:00.000Z",
+   "sent_at": "2026-08-27T08:00:00.000Z",
+   "due_date": "2026-09-10",
+   "created_at": "2026-08-27T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "0dee6c90-dc59-4a51-8a65-847fe9425d09",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-12-17T09:00:00+00:00",
+  "customer": {
+   "city": "Best",
+   "name": "Mats Janssen",
+   "email": "mats.26@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 28",
+   "postcode": "5684 AA"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2800,
+   "min": 2250,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-08-28",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2950
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-09T08:00:00.000Z",
+   "decided_at": "2026-09-09T08:00:00.000Z",
+   "generated_at": "2026-09-09T08:00:00.000Z"
+  },
+  "token": "0dedf99f4dfa4ebba49c647ebabbed54",
+  "consent_at": "2025-12-17T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2025-12-17T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2025-12-17T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-09-13T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-08",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2950
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0015",
+   "paid_at": "2026-09-13T10:00:00.000Z",
+   "sent_at": "2026-09-09T08:00:00.000Z",
+   "due_date": "2026-09-23",
+   "created_at": "2026-09-09T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "ed16547e-77bd-46a9-97b5-6e32e1e17a46",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-03-02T09:00:00+00:00",
+  "customer": {
+   "city": "Eindhoven",
+   "name": "Mila van Rooij",
+   "email": "mila@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5612 QR"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-03-01",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2050
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-03-13T09:00:00.000Z",
+   "decided_at": "2026-03-13T09:00:00.000Z",
+   "generated_at": "2026-03-13T09:00:00.000Z"
+  },
+  "token": "311df962b77c4681aea91ae0f22fb30e",
+  "consent_at": "2026-03-02T09:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-03-02T09:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-03-02T09:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-03-17T09:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-03-12",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2050
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0010",
+   "paid_at": "2026-03-17T11:00:00.000Z",
+   "sent_at": "2026-03-13T09:00:00.000Z",
+   "due_date": "2026-03-27",
+   "created_at": "2026-03-13T09:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "384b0ae1-6f55-4d6b-b820-ac689dfb8016",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-05-11T08:00:00+00:00",
+  "customer": {
+   "city": "Rosmalen",
+   "name": "Sjoerd Brandt",
+   "email": "sjoerd@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5241 NP"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-05-13",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-05-25T08:00:00.000Z",
+   "decided_at": "2026-05-25T08:00:00.000Z",
+   "generated_at": "2026-05-25T08:00:00.000Z"
+  },
+  "token": "599d8e37a59d45cdacf7c9ab57bc97ea",
+  "consent_at": "2026-05-11T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-05-11T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-05-11T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-05-29T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-05-24",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0009",
+   "paid_at": "2026-05-29T10:00:00.000Z",
+   "sent_at": "2026-05-25T08:00:00.000Z",
+   "due_date": "2026-06-08",
+   "created_at": "2026-05-25T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "699d77e5-c9b6-4212-9443-13c19a4cf2ee",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-07-05T08:00:00+00:00",
+  "customer": {
+   "city": "Vught",
+   "name": "Femke de Wit",
+   "email": "femke@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5261 LM"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-07-06",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-07-18T08:00:00.000Z",
+   "decided_at": "2026-07-18T08:00:00.000Z",
+   "generated_at": "2026-07-18T08:00:00.000Z"
+  },
+  "token": "9f107a551f1749c9aae2a35472fdf99f",
+  "consent_at": "2026-07-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-07-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-07-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-07-22T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-07-17",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0008",
+   "paid_at": "2026-07-22T10:00:00.000Z",
+   "sent_at": "2026-07-18T08:00:00.000Z",
+   "due_date": "2026-08-01",
+   "created_at": "2026-07-18T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "61d15146-0501-4422-93f9-65eb9a8d1616",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-08-14T08:00:00+00:00",
+  "customer": {
+   "city": "Oirschot",
+   "name": "Ruud Hendriks",
+   "email": "ruud@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5688 JK"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-08-12",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-08-24T08:00:00.000Z",
+   "decided_at": "2026-08-24T08:00:00.000Z",
+   "generated_at": "2026-08-24T08:00:00.000Z"
+  },
+  "token": "6eb2684209944b66a93b31543694550d",
+  "consent_at": "2026-08-14T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-08-14T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-08-14T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-08-28T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-08-23",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0007",
+   "paid_at": "2026-08-28T10:00:00.000Z",
+   "sent_at": "2026-08-24T08:00:00.000Z",
+   "due_date": "2026-09-07",
+   "created_at": "2026-08-24T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "f19e207b-0ea7-4bcd-bab6-ead4f80efe3f",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-05T08:00:00+00:00",
+  "customer": {
+   "city": "Uden",
+   "name": "Ilse Jacobs",
+   "email": "ilse@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5401 GH"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-08-29",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2000
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-10T08:00:00.000Z",
+   "decided_at": "2026-09-10T08:00:00.000Z",
+   "generated_at": "2026-09-10T08:00:00.000Z"
+  },
+  "token": "8225312a503c40bd8446d8399877b987",
+  "consent_at": "2026-09-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-09-14T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-09",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2000
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0006",
+   "paid_at": "2026-09-14T10:00:00.000Z",
+   "sent_at": "2026-09-10T08:00:00.000Z",
+   "due_date": "2026-09-24",
+   "created_at": "2026-09-10T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "4e5a84a4-c1e3-4610-a177-df215c4acb5e",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-08T08:00:00+00:00",
+  "customer": {
+   "city": "Oss",
+   "name": "Kees de Boer",
+   "email": "kees@example.nl",
+   "phone": "06 97531246",
+   "street": "Molenstraat 7",
+   "postcode": "5342 AB"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "invoice_sent",
+  "appointment": {
+   "date": "2026-09-21",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-03T08:00:00.000Z",
+   "generated_at": "2026-10-03T08:00:00.000Z"
+  },
+  "token": "4fca324fe91c47bbbccc437968cf877d",
+  "consent_at": "2026-09-08T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-08T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-08T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Factuur 2026-0001 verstuurd"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-02",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0001",
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "due_date": "2026-10-17",
+   "created_at": "2026-10-03T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "e8f84764-e3ea-4b28-904d-2e24cba8a3b1",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-12T08:00:00+00:00",
+  "customer": {
+   "city": "Schijndel",
+   "name": "Daan Willems",
+   "email": "daan@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5481 EF"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-06",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-18T08:00:00.000Z",
+   "decided_at": "2026-09-18T08:00:00.000Z",
+   "generated_at": "2026-09-18T08:00:00.000Z"
+  },
+  "token": "20b691e220734dfc86a22caf19d00a37",
+  "consent_at": "2026-09-12T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-12T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-12T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-09-22T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-17",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0005",
+   "paid_at": "2026-09-22T10:00:00.000Z",
+   "sent_at": "2026-09-18T08:00:00.000Z",
+   "due_date": "2026-10-02",
+   "created_at": "2026-09-18T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "cc4eaad9-6928-477c-ad14-2235d52a9ddc",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-16T08:00:00+00:00",
+  "customer": {
+   "city": "Den Bosch",
+   "name": "Hanneke Dekker",
+   "email": "hanneke@example.nl",
+   "phone": "06 31415926",
+   "street": "Sint Janssingel 20",
+   "postcode": "5211 TV"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2350,
+   "min": 1900,
+   "unknownFactors": []
+  },
+  "status": "rejected",
+  "appointment": {
+   "date": "2026-09-23",
+   "time": "11:30",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3400
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-26T08:00:00.000Z",
+   "decided_at": "2026-09-30T08:00:00.000Z",
+   "generated_at": "2026-09-25T08:00:00.000Z"
+  },
+  "token": "ccf7b798165940fd95322a3b03353c49",
+  "consent_at": "2026-09-16T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-16T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-16T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Klant heeft de offerte afgewezen via de offertelink"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "cd2fe4b9-6efb-4450-b5e5-4dbce9db8cab",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-18T08:00:00+00:00",
+  "customer": {
+   "city": "Boxtel",
+   "name": "Noor Kuipers",
+   "email": "noor@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5281 CD"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-13",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2150
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-25T08:00:00.000Z",
+   "decided_at": "2026-09-25T08:00:00.000Z",
+   "generated_at": "2026-09-25T08:00:00.000Z"
+  },
+  "token": "1434540898c644a7a80b7f27a0757874",
+  "consent_at": "2026-09-18T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-18T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-18T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-09-29T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-24",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2150
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0004",
+   "paid_at": "2026-09-29T10:00:00.000Z",
+   "sent_at": "2026-09-25T08:00:00.000Z",
+   "due_date": "2026-10-09",
+   "created_at": "2026-09-25T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "8cd3527e-42b7-47a7-b0a0-e49daefb04c0",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-20T08:00:00+00:00",
+  "customer": {
+   "city": "Eindhoven",
+   "name": "Eva Smits",
+   "email": "eva@example.nl",
+   "phone": "06 13572468",
+   "street": "Parklaan 18",
+   "postcode": "5611 KL"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "invoice_sent",
+  "appointment": {
+   "date": "2026-09-24",
+   "time": "13:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-25T08:00:00.000Z",
+   "decided_at": "2026-09-27T08:00:00.000Z",
+   "generated_at": "2026-09-24T08:00:00.000Z"
+  },
+  "token": "866ca4ff8ef64e899d71fdbeaefa60a4",
+  "consent_at": "2026-09-20T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-20T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-20T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-07T13:30:00.000Z",
+    "text": "Installatie afgerond door Sven Bakker"
+   },
+   {
+    "at": "2026-10-07T13:30:00.000Z",
+    "text": "Conceptfactuur gemaakt"
+   },
+   {
+    "at": "2026-10-08T16:30:59.930Z",
+    "text": "Factuur 2026-0012 verstuurd (2730 euro)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-07",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": {
+   "notes": "Extra doorvoer door de kelderwand nodig.",
+   "units": "1",
+   "checks": {
+    "cleaned": true,
+    "test_run": true,
+    "explained": true,
+    "condensate": true,
+    "vacuum_leak": true
+   },
+   "extras": [
+    {
+     "id": "x",
+     "label": "Extra doorvoer kelderwand",
+     "amount": 180
+    }
+   ],
+   "photos": [],
+   "serials": "BU-48213 / BI-77310",
+   "as_quoted": "no",
+   "pipe_length": "5_10",
+   "completed_at": "2026-10-07T13:30:00.000Z"
+  },
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    },
+    {
+     "id": "x",
+     "label": "Meerwerk: Extra doorvoer kelderwand",
+     "amount": 180
+    }
+   ],
+   "number": "2026-0012",
+   "sent_at": "2026-10-08T16:30:59.930Z",
+   "due_date": "2026-10-22",
+   "created_at": "2026-10-07T13:30:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "38f1f9b3-d7b7-4119-b06a-3bc2cf475c6d",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-24T08:00:00+00:00",
+  "customer": {
+   "city": "Best",
+   "name": "Tom Bakker",
+   "email": "tom@example.nl",
+   "phone": "06 24681357",
+   "street": "Dorpsplein 3",
+   "postcode": "5683 AB"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-29",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2150
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-09-30T08:00:00.000Z",
+   "decided_at": "2026-10-02T08:00:00.000Z",
+   "generated_at": "2026-09-29T08:00:00.000Z"
+  },
+  "token": "2ae2dcb365d8467fa4c2800f29fbdc80",
+  "consent_at": "2026-09-24T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-24T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-24T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-07T09:00:00.000Z",
+    "text": "Installatie ingepland (2026-10-09 08:00, Lars Visser)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-09",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "5d1baa9c-5db6-4054-bef7-3678623b0e80",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-24T08:00:00+00:00",
+  "customer": {
+   "city": "Helmond",
+   "name": "Bram Vos",
+   "email": "bram@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5701 AB"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-19",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2450
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-01T08:00:00.000Z",
+   "decided_at": "2026-10-01T08:00:00.000Z",
+   "generated_at": "2026-10-01T08:00:00.000Z"
+  },
+  "token": "e659f0a9deac4dc4b3abf639f7bc958e",
+  "consent_at": "2026-09-24T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-24T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-24T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-30",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2450
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0003",
+   "paid_at": "2026-10-05T10:00:00.000Z",
+   "sent_at": "2026-10-01T08:00:00.000Z",
+   "due_date": "2026-10-15",
+   "created_at": "2026-10-01T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "be0e05df-c8a7-45d7-9879-7c1300cd2ba0",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-26T08:00:00+00:00",
+  "customer": {
+   "city": "Veghel",
+   "name": "Lotte Maas",
+   "email": "lotte@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldlaan 1",
+   "postcode": "5461 AA"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-21",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1750
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-03T08:00:00.000Z",
+   "generated_at": "2026-10-03T08:00:00.000Z"
+  },
+  "token": "9ab739aba00540e5bf1c0f61ac39cf8e",
+  "consent_at": "2026-09-26T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-26T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-26T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-02",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1750
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0002",
+   "paid_at": "2026-10-07T10:00:00.000Z",
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "due_date": "2026-10-17",
+   "created_at": "2026-10-03T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "d44ccdad-3ffd-4a5e-a24e-5cac8913455a",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-28T08:00:00+00:00",
+  "customer": {
+   "city": "Udenhout",
+   "name": "Sanne Peters",
+   "email": "sanne@example.nl",
+   "phone": "06 99887766",
+   "street": "Lindelaan 9",
+   "postcode": "5071 JK"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2550,
+   "min": 2000,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-10-02",
+   "time": "11:30",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-06T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "3cf54e28270b415f9735baf0f9025ae2",
+  "consent_at": "2026-09-28T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-28T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-28T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Klant is akkoord via de offertelink"
+   },
+   {
+    "at": "2026-10-10T15:29:54.484Z",
+    "text": "Installatie ingepland (wo 21 okt 08:00, Sven Bakker, 1 dag)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-21",
+   "days": 1,
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "e165983e-f97c-40a4-8b23-0f2592ce8098",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-29T08:00:00+00:00",
+  "customer": {
+   "city": "Tilburg",
+   "name": "Dirk Jonker",
+   "email": "dirk.18@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 20",
+   "postcode": "5011 SS"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2250,
+   "min": 1800,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-29",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2600
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "68947f356ced4914b77983867937795d",
+  "consent_at": "2026-09-29T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-29T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-29T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-11-06",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "1a4f91d7-4dd3-4370-b4a1-2bffe4c36c22",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-29T08:00:00+00:00",
+  "customer": {
+   "city": "Best",
+   "name": "Marit Smit",
+   "email": "marit.9@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 11",
+   "postcode": "5683 HH"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-30",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-08T18:51:24.982Z",
+   "decided_at": "2026-10-08T18:57:40.927Z",
+   "reviewed_at": "2026-10-08T18:51:24.982Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "62f4874047b94b9a93940b2a5f87dc36",
+  "consent_at": "2026-09-29T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-29T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-29T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T18:51:24.982Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-08T18:51:24.982Z",
+    "text": "Offerte verstuurd naar marit.9@example.nl (2550 euro)"
+   },
+   {
+    "at": "2026-10-08T18:57:40.927Z",
+    "text": "Klant is akkoord via de offertelink, installatie plannen"
+   },
+   {
+    "at": "2026-10-08T19:05:18.916Z",
+    "text": "Installatie ingepland (di 13 okt 08:00, Sven Bakker)"
+   },
+   {
+    "at": "2026-10-08T19:07:25.543Z",
+    "text": "Installatie afgerond door Sven Bakker"
+   },
+   {
+    "at": "2026-10-08T19:07:25.543Z",
+    "text": "Conceptfactuur gemaakt"
+   },
+   {
+    "at": "2026-10-08T19:10:08.836Z",
+    "text": "Factuur 2026-0020 verstuurd (2550 euro)"
+   },
+   {
+    "at": "2026-10-08T19:24:28.249Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-13",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": {
+   "notes": "",
+   "units": "1",
+   "checks": {
+    "cleaned": true,
+    "test_run": true,
+    "explained": true,
+    "condensate": true,
+    "vacuum_leak": true
+   },
+   "extras": [],
+   "photos": [],
+   "serials": "757587",
+   "as_quoted": "yes",
+   "pipe_length": "1_5",
+   "completed_at": "2026-10-08T19:07:25.543Z"
+  },
+  "invoice": {
+   "items": [
+    {
+     "id": "imuzwrw870",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "imuzwrw871",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0020",
+   "paid_at": "2026-10-08T19:24:28.249Z",
+   "sent_at": "2026-10-08T19:10:08.836Z",
+   "due_date": "2026-10-22",
+   "created_at": "2026-10-08T19:07:25.543Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "efd7d5bd-3f18-4bcd-8ba1-40c59b1997b0",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-30T08:00:00+00:00",
+  "customer": {
+   "city": "Veghel",
+   "name": "Roos Wouters",
+   "email": "roos.17@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 19",
+   "postcode": "5461 RR"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-30",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2250
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "ca9f1180f8034d98ace5c6cfbfee672e",
+  "consent_at": "2026-09-30T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-11-05",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "6b050102-5633-48e0-b526-0d6f58df2ba1",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-30T08:00:00+00:00",
+  "customer": {
+   "city": "Vught",
+   "name": "Mark van Dijk",
+   "email": "mark@example.nl",
+   "phone": "06 55667788",
+   "street": "Molenweg 101",
+   "postcode": "5262 GH"
+  },
+  "answers": {
+   "area": "gt40",
+   "spaces": "multiple",
+   "system": "separate",
+   "outdoor": "facade",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 6500,
+   "min": 5200,
+   "unknownFactors": []
+  },
+  "status": "quote_sent",
+  "appointment": {
+   "date": "2026-10-04",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "10_15",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "i0mv2olj0j",
+     "label": "Airco-installatie (3 units)",
+     "amount": 4750
+    },
+    {
+     "id": "i1mv2olj0j",
+     "label": "Montage",
+     "amount": 1950
+    },
+    {
+     "id": "i2mv2olj0j",
+     "label": "Extra leiding (10–15 m)",
+     "amount": 150
+    },
+    {
+     "id": "i3mv2olj0j",
+     "qty": 1,
+     "unit": "per stuk",
+     "label": "Doorvoer harde wand",
+     "price": 120,
+     "amount": 120
+    }
+   ],
+   "history": [
+    {
+     "items": [
+      {
+       "id": "q1",
+       "label": "Airco-installatie (3 units)",
+       "amount": 4750
+      },
+      {
+       "id": "q2",
+       "label": "Montage",
+       "amount": 1950
+      },
+      {
+       "id": "q3",
+       "label": "Extra leiding (10–15 m)",
+       "amount": 150
+      }
+     ],
+     "sent_at": "2026-10-04T12:00:00.000Z",
+     "reopened_at": "2026-10-09T18:48:34.406Z"
+    },
+    {
+     "items": [
+      {
+       "id": "q1",
+       "label": "Airco-installatie (3 units)",
+       "amount": 4750
+      },
+      {
+       "id": "q2",
+       "label": "Montage",
+       "amount": 1950
+      },
+      {
+       "id": "q3",
+       "label": "Extra leiding (10–15 m)",
+       "amount": 150
+      }
+     ],
+     "sent_at": "2026-10-09T18:49:16.162Z",
+     "reopened_at": "2026-10-09T19:15:06.286Z"
+    }
+   ],
+   "sent_at": "2026-10-10T17:42:06.376Z",
+   "reviewed_at": "2026-10-10T17:42:06.376Z",
+   "generated_at": "2026-10-04T08:00:00.000Z"
+  },
+  "token": "96937334b2d64d46822cb848b13915f3",
+  "consent_at": "2026-09-30T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-04T12:00:00.000Z",
+    "text": "Offerte verstuurd"
+   },
+   {
+    "at": "2026-10-09T18:48:34.406Z",
+    "text": "Offerte heropend om aan te passen (versie 2). De klant geeft na het versturen opnieuw akkoord."
+   },
+   {
+    "at": "2026-10-09T18:49:16.162Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-09T18:49:16.162Z",
+    "text": "Offerte verstuurd naar mark@example.nl (6850 euro)"
+   },
+   {
+    "at": "2026-10-09T19:15:06.286Z",
+    "text": "Offerte heropend om aan te passen (versie 3). De klant geeft na het versturen opnieuw akkoord."
+   },
+   {
+    "at": "2026-10-10T17:41:50.083Z",
+    "text": "Offerte aangepast"
+   },
+   {
+    "at": "2026-10-10T17:42:06.376Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-10T17:42:06.841Z",
+    "text": "Offerte goedgekeurd en klaar om te delen met Mark van Dijk (6970 euro)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "69e86af0-e1f3-4736-98b4-8ff965ef9feb",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-09-30T08:00:00+00:00",
+  "customer": {
+   "city": "Helmond",
+   "name": "Stijn de Groot",
+   "email": "stijn.8@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 10",
+   "postcode": "5701 GG"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-23",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "i0muzw9ahc",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "i1muzw9ahc",
+     "label": "Montage",
+     "amount": 650
+    },
+    {
+     "id": "i2muzw9ahc",
+     "label": "Bevestigingsmateriaal",
+     "amount": 180
+    }
+   ],
+   "sent_at": "2026-10-08T18:53:15.619Z",
+   "decided_at": "2026-10-08T18:58:52.575Z",
+   "reviewed_at": "2026-10-08T18:53:15.619Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "81f32568a24c43aaafdce2dacfc4c8f1",
+  "consent_at": "2026-09-30T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-09-30T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T18:52:57.552Z",
+    "text": "Offerte aangepast"
+   },
+   {
+    "at": "2026-10-08T18:53:15.619Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-08T18:53:15.619Z",
+    "text": "Offerte verstuurd naar stijn.8@example.nl (2380 euro)"
+   },
+   {
+    "at": "2026-10-08T18:58:52.596Z",
+    "text": "Klant is akkoord via de offertelink, installatie plannen"
+   },
+   {
+    "at": "2026-10-11T14:58:31.767Z",
+    "text": "Installatie ingepland (wo 14 okt 08:00, Eigenaar, 1 dag)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-14",
+   "days": 1,
+   "time": "08:00",
+   "technician": "Eigenaar"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": {
+   "date": "2026-10-20",
+   "part": "any"
+  }
+ },
+ {
+  "id": "cd32682c-b99a-4482-97d2-7110e3483d08",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-01T08:00:00+00:00",
+  "customer": {
+   "city": "Schijndel",
+   "name": "Teun Aarts",
+   "email": "teun.16@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 18",
+   "postcode": "5481 QQ"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-23",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "1e4e92685ff449e49b2b01fc1cbcf3f6",
+  "consent_at": "2026-10-01T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-11-04",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "9a24c4bf-3485-4f88-8199-2367224607da",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-01T08:00:00+00:00",
+  "customer": {
+   "city": "Den Bosch",
+   "name": "Eline Dijkstra",
+   "email": "eline.7@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 9",
+   "postcode": "5211 FF"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2650,
+   "min": 2100,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-19",
+   "time": "08:30",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "76cf2c1379c44f6690f4fe40af36948e",
+  "consent_at": "2026-10-01T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T16:12:38.550Z",
+    "text": "Bezoek verplaatst (ma 19 okt 08:30, Sven Bakker)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "41f69f21-fc38-473a-be77-50e3ff0052c3",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-01T08:00:00+00:00",
+  "customer": {
+   "city": "Den Bosch",
+   "name": "Eva Brouwer",
+   "email": "eva.25@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 27",
+   "postcode": "5212 ZZ"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "rejected",
+  "appointment": {
+   "date": "2026-09-30",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2600
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-06T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "84f76586dd4e4cd8b45d8a2ddb91e2b8",
+  "consent_at": "2026-10-01T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-01T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "f3b1ed82-97b8-4fb6-8880-c514a4443a56",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-02T08:00:00+00:00",
+  "customer": {
+   "city": "Rosmalen",
+   "name": "Isa Bakker",
+   "email": "isa.15@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 17",
+   "postcode": "5241 PP"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2350,
+   "min": 1900,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-24",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "3367456cf6014cac95122ad1005632f6",
+  "consent_at": "2026-10-02T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T17:27:47.992Z",
+    "text": "Installatie ingepland (wo 14 okt 08:00, Sven Bakker)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-14",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "86475785-2018-4d2a-89a6-381dc4fe500c",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-02T08:00:00+00:00",
+  "customer": {
+   "city": "Oisterwijk",
+   "name": "Gijs Kramer",
+   "email": "gijs.6@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 8",
+   "postcode": "5061 EE"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2250,
+   "min": 1800,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-16",
+   "time": "08:30",
+   "technician": "Eigenaar"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "ad7c7617adb144e1b63ae4ce78439835",
+  "consent_at": "2026-10-02T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-10T16:26:56.628Z",
+    "text": "Bezoek verplaatst (vr 16 okt 08:30, Eigenaar)"
+   },
+   {
+    "at": "2026-10-10T16:26:56.830Z",
+    "text": "Bevestiging van de afspraak gemaild naar gijs.6@example.nl"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "ee33a203-1d95-4494-baa7-0cb3ba950759",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-02T08:00:00+00:00",
+  "customer": {
+   "city": "Helmond",
+   "name": "Sem van Beek",
+   "email": "sem.24@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 26",
+   "postcode": "5702 YY"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "unknownFactors": []
+  },
+  "status": "rejected",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "17a1de3eeddb4458bb5f4848bd19c062",
+  "consent_at": "2026-10-02T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-02T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "1864a824-fed3-4626-8f58-2458805dc6f8",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-03T08:00:00+00:00",
+  "customer": {
+   "city": "Oirschot",
+   "name": "Julia Peeters",
+   "email": "julia.23@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 25",
+   "postcode": "5688 XX"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2950,
+   "min": 2350,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-19",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-01T08:00:00.000Z",
+   "decided_at": "2026-10-01T08:00:00.000Z",
+   "generated_at": "2026-10-01T08:00:00.000Z"
+  },
+  "token": "1ac3596749c54dc8b4d2096595575109",
+  "consent_at": "2026-10-03T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-10T15:07:13.382Z",
+    "text": "Betaallink bij de factuur gezet"
+   },
+   {
+    "at": "2026-10-10T15:07:19.194Z",
+    "text": "Betaallink weggehaald"
+   },
+   {
+    "at": "2026-10-11T14:29:58.231Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-09-30",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1900
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0014",
+   "paid_at": "2026-10-11T14:29:58.231Z",
+   "sent_at": "2026-10-01T08:00:00.000Z",
+   "due_date": "2026-10-15",
+   "created_at": "2026-10-01T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "a9e1f9f2-9c89-4b93-a3f0-c6741637b557",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-03T08:00:00+00:00",
+  "customer": {
+   "city": "Eindhoven",
+   "name": "Fatima El Amrani",
+   "email": "fatima@example.nl",
+   "phone": "06 11223344",
+   "street": "Stationsweg 5",
+   "postcode": "5611 EF"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "bedroom",
+   "outdoor": "balcony",
+   "existing": "replace",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2250,
+   "min": 1800,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-10-07",
+   "time": "14:30",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "Balkon geschikt voor de buitenunit. Boren door beton.",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "hard",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1850
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    },
+    {
+     "id": "c",
+     "label": "Boorwerk harde wand",
+     "amount": 120
+    }
+   ],
+   "sent_at": "2026-10-08T20:35:06.805Z",
+   "decided_at": "2026-10-08T20:35:14.983Z",
+   "reviewed_at": "2026-10-08T20:35:06.805Z",
+   "generated_at": "2026-10-07T13:20:00.000Z"
+  },
+  "token": "c8698ac0d2674d35a0f74d4c3d129be2",
+  "consent_at": "2026-10-03T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-07T13:10:00.000Z",
+    "text": "Bezoek afgerond door Sven Bakker"
+   },
+   {
+    "at": "2026-10-07T13:20:00.000Z",
+    "text": "Conceptofferte gemaakt"
+   },
+   {
+    "at": "2026-10-08T20:35:06.805Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-08T20:35:06.805Z",
+    "text": "Offerte verstuurd naar fatima@example.nl (2620 euro)"
+   },
+   {
+    "at": "2026-10-08T20:35:14.983Z",
+    "text": "Klant is akkoord via de offertelink, installatie plannen"
+   },
+   {
+    "at": "2026-10-08T20:35:57.195Z",
+    "text": "Installatie ingepland (di 20 okt 08:00, Sven Bakker)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-20",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "f7bc0f57-6e76-45c9-ad09-f63e064469fe",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-03T08:00:00+00:00",
+  "customer": {
+   "city": "Vught",
+   "name": "Ruben Evers",
+   "email": "ruben.14@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 16",
+   "postcode": "5261 NN"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2800,
+   "min": 2250,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-25",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "acb58bfbebdf41cfb043531e6fe0d28f",
+  "consent_at": "2026-10-03T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-10T14:42:31.926Z",
+    "text": "Installatie ingepland (do 22 okt 08:00, Sven Bakker, 1 dag)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-22",
+   "days": 1,
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "b81bea23-265d-4b77-a505-664922764e70",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-03T08:00:00+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Yara Hoekstra",
+   "email": "yara.5@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 7",
+   "postcode": "5141 DD"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-15",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "03c4315bbeb0452dbdfd78cd42ef7474",
+  "consent_at": "2026-10-03T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-03T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "3ac75a93-5e5a-453f-8fc6-d3076f8fb6cc",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-04T08:00:00+00:00",
+  "customer": {
+   "city": "Eindhoven",
+   "name": "Niels van Leeuwen",
+   "email": "niels.4@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 6",
+   "postcode": "5611 AC"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-19",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "2700921dd6184df583b1ceddac868fe0",
+  "consent_at": "2026-10-04T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T18:48:09.034Z",
+    "text": "Bezoek ingepland (ma 19 okt 10:00, Sven Bakker)"
+   },
+   {
+    "at": "2026-10-08T18:48:12.185Z",
+    "text": "Bezoek verplaatst (ma 19 okt 10:00, Sven Bakker)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-19",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "b07d1363-be2d-4218-9ba5-6c2c0639d1dd",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-04T08:00:00+00:00",
+  "customer": {
+   "city": "Boxtel",
+   "name": "Fenna Prins",
+   "email": "fenna.13@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 15",
+   "postcode": "5281 MM"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "quote_sent",
+  "appointment": {
+   "date": "2026-09-26",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "i0mv14zv9c",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3300
+    },
+    {
+     "id": "i1mv14zv9c",
+     "label": "Montage",
+     "amount": 650
+    },
+    {
+     "id": "i2mv14zv9c",
+     "label": "Bevestigingsmateriaal",
+     "amount": 45
+    },
+    {
+     "id": "i3mv14zv9c",
+     "label": "Kabelgoot per meter",
+     "amount": 12
+    },
+    {
+     "id": "i4mv14zv9c",
+     "label": "Condenspomp",
+     "amount": 145
+    }
+   ],
+   "values": {
+    "area": "20_30",
+    "spaces": "living",
+    "outdoor": "facade",
+    "existing": "none",
+    "property": "terraced"
+   },
+   "history": [
+    {
+     "items": [
+      {
+       "id": "a",
+       "label": "Airco-installatie (1 unit)",
+       "amount": 3300
+      },
+      {
+       "id": "b",
+       "label": "Montage",
+       "amount": 650
+      }
+     ],
+     "sent_at": "2026-10-03T08:00:00.000Z",
+     "reopened_at": "2026-10-09T15:44:54.592Z"
+    }
+   ],
+   "sent_at": "2026-10-11T13:25:53.813Z",
+   "reviewed_at": "2026-10-11T13:25:53.813Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "4b601aae744e4d13bbe665a0b0e49f47",
+  "consent_at": "2026-10-04T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T15:44:54.592Z",
+    "text": "Offerte heropend om aan te passen (versie 2). De klant geeft na het versturen opnieuw akkoord."
+   },
+   {
+    "at": "2026-10-09T15:45:20.641Z",
+    "text": "Offerte aangepast"
+   },
+   {
+    "at": "2026-10-10T10:01:54.149Z",
+    "text": "Offerte herberekend: Oppervlakte van \"20 tot 30 m²\" naar \"30 tot 40 m²\" (+ 250 euro)"
+   },
+   {
+    "at": "2026-10-10T10:01:59.124Z",
+    "text": "Offerte herberekend: Oppervlakte van \"30 tot 40 m²\" naar \"20 tot 30 m²\" (− 250 euro)"
+   },
+   {
+    "at": "2026-10-11T13:25:53.813Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-11T13:25:54.220Z",
+    "text": "Offerte goedgekeurd en klaar om te delen met Fenna Prins (4152 euro)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "d6c7452a-4f88-4c9d-b8a6-80241820b23e",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-04T08:00:00+00:00",
+  "customer": {
+   "city": "Goirle",
+   "name": "Pim Roelofs",
+   "email": "pim.22@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 24",
+   "postcode": "5052 WW"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2550,
+   "min": 2000,
+   "unknownFactors": []
+  },
+  "status": "invoice_sent",
+  "appointment": {
+   "date": "2026-09-20",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-02T08:00:00.000Z",
+   "decided_at": "2026-10-02T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "d44a0eff97774394a9bebc570fef9efb",
+  "consent_at": "2026-10-04T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-04T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-01",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1550
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0013",
+   "sent_at": "2026-10-02T08:00:00.000Z",
+   "due_date": "2026-10-16",
+   "created_at": "2026-10-02T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "c6e22cd8-85be-4eb7-a18e-b1a3f7ad0c6c",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-05T08:00:00+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Nina Claassen",
+   "email": "nina.21@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 23",
+   "postcode": "5142 VV"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "unknownFactors": []
+  },
+  "status": "invoice_sent",
+  "appointment": {
+   "date": "2026-09-21",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-03T08:00:00.000Z",
+   "generated_at": "2026-10-03T08:00:00.000Z"
+  },
+  "token": "0b01c7f0d5a943d2b57d3932971a08c9",
+  "consent_at": "2026-10-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-02",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3650
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0012",
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "due_date": "2026-10-17",
+   "created_at": "2026-10-03T08:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "3d91c618-9a8f-4761-b8cf-7b42de7bee20",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-05T08:00:00+00:00",
+  "customer": {
+   "city": "Goirle",
+   "name": "Sara Bos",
+   "email": "sara.3@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 5",
+   "postcode": "5051 CB"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2350,
+   "min": 1900,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-15",
+   "time": "08:30",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "ac16b2d755654d11a0a6636653ede873",
+  "consent_at": "2026-10-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T19:26:23.743Z",
+    "text": "Bezoek ingepland (do 15 okt 08:30, Sven Bakker)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-15",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "546e4c88-6b46-47a1-a4d0-596518175b4e",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-05T08:00:00+00:00",
+  "customer": {
+   "city": "Tilburg",
+   "name": "Pieter Jansen",
+   "email": "pieter@example.nl",
+   "phone": "06 87654321",
+   "street": "Heuvelstraat 48",
+   "postcode": "5038 CD"
+  },
+  "answers": {
+   "area": "unknown",
+   "spaces": "living",
+   "outdoor": "ground",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2000,
+   "unknownFactors": [
+    "oppervlakte"
+   ]
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-10-08",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "Lekker wijf",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "hard",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-08T20:51:47.159Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "i0mv0vg7sw",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 1700
+    },
+    {
+     "id": "i1mv0vg7sw",
+     "label": "Montage",
+     "amount": 650
+    },
+    {
+     "id": "i2mv0vg7sw",
+     "label": "Boorwerk harde wand",
+     "amount": 120
+    }
+   ],
+   "sent_at": "2026-10-09T11:18:14.126Z",
+   "decided_at": "2026-10-09T11:19:04.210Z",
+   "reviewed_at": "2026-10-09T11:18:14.126Z",
+   "generated_at": "2026-10-08T20:51:47.510Z"
+  },
+  "token": "ecc893f19c4a484a95db078f880a5522",
+  "consent_at": "2026-10-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [
+   {
+    "at": "2026-10-07T07:30:00.000Z",
+    "by": "Eigenaar",
+    "text": "Klant is overdag alleen na 17:00 bereikbaar. Hond in de tuin."
+   }
+  ],
+  "log": [
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-07T07:40:00.000Z",
+    "text": "Bezoek ingepland"
+   },
+   {
+    "at": "2026-10-08T20:51:47.159Z",
+    "text": "Bezoek afgerond door Sven Bakker"
+   },
+   {
+    "at": "2026-10-08T20:51:47.511Z",
+    "text": "Conceptofferte gemaakt"
+   },
+   {
+    "at": "2026-10-09T11:18:07.232Z",
+    "text": "Offerte aangepast"
+   },
+   {
+    "at": "2026-10-09T11:18:14.126Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-09T11:18:14.126Z",
+    "text": "Offerte verstuurd naar pieter@example.nl (2470 euro)"
+   },
+   {
+    "at": "2026-10-09T11:19:04.211Z",
+    "text": "Klant is akkoord via de offertelink, installatie plannen"
+   },
+   {
+    "at": "2026-10-09T11:19:36.675Z",
+    "text": "Installatie ingepland (ma 19 okt 08:00, Lars Visser)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-19",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": {
+   "date": "2026-10-19",
+   "part": "morning"
+  }
+ },
+ {
+  "id": "bdf4ad86-934d-482e-ba59-47851bf84c27",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-05T08:00:00+00:00",
+  "customer": {
+   "city": "Uden",
+   "name": "Wouter Kok",
+   "email": "wouter.12@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 14",
+   "postcode": "5401 LL"
+  },
+  "answers": {
+   "area": "40_60",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "unknownFactors": []
+  },
+  "status": "install_planned",
+  "appointment": {
+   "date": "2026-09-27",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "i0mv19kn8q",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2950
+    },
+    {
+     "id": "i1mv19kn8q",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "history": [
+    {
+     "items": [
+      {
+       "id": "a",
+       "label": "Airco-installatie (1 unit)",
+       "amount": 2950
+      },
+      {
+       "id": "b",
+       "label": "Montage",
+       "amount": 650
+      }
+     ],
+     "sent_at": "2026-10-03T08:00:00.000Z",
+     "reopened_at": "2026-10-09T17:53:15.916Z"
+    },
+    {
+     "items": [
+      {
+       "id": "i0mv19kn8q",
+       "label": "Airco-installatie (1 unit)",
+       "amount": 2950
+      },
+      {
+       "id": "i1mv19kn8q",
+       "label": "Montage",
+       "amount": 650
+      }
+     ],
+     "sent_at": "2026-10-09T17:53:35.447Z",
+     "reopened_at": "2026-10-09T19:01:20.541Z"
+    }
+   ],
+   "sent_at": "2026-10-11T11:56:09.428Z",
+   "decided_at": "2026-10-11T11:59:01.141Z",
+   "reviewed_at": "2026-10-11T11:56:09.428Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "d14fa160f77c495e814159992a01129a",
+  "consent_at": "2026-10-05T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-05T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T17:53:15.916Z",
+    "text": "Offerte heropend om aan te passen (versie 2). De klant geeft na het versturen opnieuw akkoord."
+   },
+   {
+    "at": "2026-10-09T17:53:28.490Z",
+    "text": "Offerte aangepast"
+   },
+   {
+    "at": "2026-10-09T17:53:35.447Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-09T17:53:35.447Z",
+    "text": "Offerte verstuurd naar wouter.12@example.nl (3600 euro)"
+   },
+   {
+    "at": "2026-10-09T19:01:20.541Z",
+    "text": "Offerte heropend om aan te passen (versie 3). De klant geeft na het versturen opnieuw akkoord."
+   },
+   {
+    "at": "2026-10-11T11:56:09.428Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-11T11:56:09.888Z",
+    "text": "Offerte goedgekeurd en klaar om te delen met Wouter Kok (3600 euro)"
+   },
+   {
+    "at": "2026-10-11T11:59:01.141Z",
+    "text": "Offerte akkoord, installatie moet worden ingepland"
+   },
+   {
+    "at": "2026-10-11T14:58:55.784Z",
+    "text": "Installatie ingepland (ma 12 okt 08:00, Eigenaar, 1 dag)"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-12",
+   "days": 1,
+   "time": "08:00",
+   "technician": "Eigenaar"
+  },
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "163afc35-f522-4e2b-b004-65db6f65fbd7",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-06T08:00:00+00:00",
+  "customer": {
+   "city": "Tilburg",
+   "name": "Thijs Mulder",
+   "email": "thijs.2@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 4",
+   "postcode": "5038 EA"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2800,
+   "min": 2250,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-13",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "5db38d4342274c5e9f6a791200f31df0",
+  "consent_at": "2026-10-06T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T20:33:20.747Z",
+    "text": "Bezoek ingepland (di 13 okt 10:00, Lars Visser)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-13",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "9b758a1c-0167-47b0-9752-26a6456afcd9",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-06T08:00:00+00:00",
+  "customer": {
+   "city": "Oss",
+   "name": "Lieke Maas",
+   "email": "lieke.11@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 13",
+   "postcode": "5341 KK"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2950,
+   "min": 2350,
+   "unknownFactors": []
+  },
+  "status": "rejected",
+  "appointment": {
+   "date": "2026-09-28",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2600
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-09T18:33:24.568Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "c129e08a5e06474a873923909a5b2d2d",
+  "consent_at": "2026-10-06T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T18:33:24.568Z",
+    "text": "Klant heeft de offerte afgewezen via de offertelink"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "abe163f8-16fe-44d2-8f4a-6d36abbd0146",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-06T08:00:00+00:00",
+  "customer": {
+   "city": "Breda",
+   "name": "Lars Hendriks",
+   "email": "lars.20@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 22",
+   "postcode": "4812 UU"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2700,
+   "min": 2150,
+   "unknownFactors": []
+  },
+  "status": "install_done",
+  "appointment": {
+   "date": "2026-09-27",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "287be35ff96549a98782b10b3383a3ae",
+  "consent_at": "2026-10-06T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-06T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-07",
+   "time": "08:00",
+   "technician": "Lars Visser"
+  },
+  "proposal": null,
+  "install": {
+   "notes": "",
+   "units": "1",
+   "checks": {
+    "cleaned": true,
+    "test_run": true,
+    "explained": true,
+    "condensate": true,
+    "vacuum_leak": true
+   },
+   "extras": [],
+   "photos": [],
+   "serials": "BU-40019",
+   "as_quoted": "yes",
+   "pipe_length": "5_10",
+   "completed_at": "2026-10-07T13:00:00.000Z"
+  },
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 3300
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "created_at": "2026-10-07T13:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "ffa2f245-4cb4-43b6-b81e-f3993086cb11",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-07T08:00:00+00:00",
+  "customer": {
+   "city": "Veldhoven",
+   "name": "Joris Hermans",
+   "email": "joris.10@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 12",
+   "postcode": "5502 JJ"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "corner"
+  },
+  "estimate": {
+   "max": 2550,
+   "min": 2000,
+   "unknownFactors": []
+  },
+  "status": "install_to_plan",
+  "appointment": {
+   "date": "2026-09-29",
+   "time": "10:00",
+   "technician": "Lars Visser"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2250
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-08T20:33:48.263Z",
+   "decided_at": "2026-10-08T20:34:22.250Z",
+   "reviewed_at": "2026-10-08T20:33:48.263Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "a7eef366772c41dc809edd5d60c34871",
+  "consent_at": "2026-10-07T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-08T20:33:48.263Z",
+    "text": "Offerte gecontroleerd"
+   },
+   {
+    "at": "2026-10-08T20:33:48.263Z",
+    "text": "Offerte verstuurd naar joris.10@example.nl (2900 euro)"
+   },
+   {
+    "at": "2026-10-08T20:34:22.251Z",
+    "text": "Klant is akkoord via de offertelink, installatie plannen"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": {
+   "date": "2026-10-19",
+   "part": "morning"
+  }
+ },
+ {
+  "id": "0a3ca6be-ec2b-42d3-ace8-120e06b7dcd0",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-07T08:00:00+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Jan de Vries",
+   "email": "jan@example.nl",
+   "phone": "06 12345678",
+   "street": "Kerkstraat 12",
+   "postcode": "5141 AB"
+  },
+  "answers": {
+   "area": "30_40",
+   "spaces": "living_bedroom",
+   "system": "multisplit",
+   "outdoor": "balcony",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 4650,
+   "min": 3750,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-15",
+   "time": "14:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "620a5485f750457fb57d8411a179c94f",
+  "consent_at": "2026-10-07T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-11T14:58:11.231Z",
+    "text": "Bezoek ingepland (do 15 okt 14:00, Sven Bakker)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-13",
+    "part": "morning"
+   },
+   "second": {
+    "date": "2026-10-14",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "93e08be8-a66f-4665-9853-c11213107def",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-07T08:00:00+00:00",
+  "customer": {
+   "city": "Eindhoven",
+   "name": "Merel Visser",
+   "email": "merel.19@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 21",
+   "postcode": "5612 TT"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "detached"
+  },
+  "estimate": {
+   "max": 2650,
+   "min": 2100,
+   "unknownFactors": []
+  },
+  "status": "completed",
+  "appointment": {
+   "date": "2026-09-28",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "meter_box": {
+    "value": "ok",
+    "source": "verified"
+   },
+   "wall_type": {
+    "value": "soft",
+    "source": "verified"
+   },
+   "completed_at": "2026-10-05T09:00:00.000Z",
+   "outdoor_unit": {
+    "value": "yes",
+    "source": "verified"
+   },
+   "pipe_distance": {
+    "value": "5_10",
+    "source": "verified"
+   }
+  },
+  "quote": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2950
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "sent_at": "2026-10-03T08:00:00.000Z",
+   "decided_at": "2026-10-05T08:00:00.000Z",
+   "generated_at": "2026-10-02T08:00:00.000Z"
+  },
+  "token": "5a10d3f8e7dd40968695b450ee358bd5",
+  "consent_at": "2026-10-07T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T11:21:08.275Z",
+    "text": "Factuur 2026-0021 verstuurd (3600 euro)"
+   },
+   {
+    "at": "2026-10-09T11:21:28.924Z",
+    "text": "Betaling ontvangen, aanvraag afgerond"
+   }
+  ],
+  "preferred": null,
+  "install_appointment": {
+   "date": "2026-10-07",
+   "time": "08:00",
+   "technician": "Sven Bakker"
+  },
+  "proposal": null,
+  "install": {
+   "notes": "",
+   "units": "1",
+   "checks": {
+    "cleaned": true,
+    "test_run": true,
+    "explained": true,
+    "condensate": true,
+    "vacuum_leak": true
+   },
+   "extras": [],
+   "photos": [],
+   "serials": "BU-40018",
+   "as_quoted": "yes",
+   "pipe_length": "5_10",
+   "completed_at": "2026-10-07T13:00:00.000Z"
+  },
+  "invoice": {
+   "items": [
+    {
+     "id": "a",
+     "label": "Airco-installatie (1 unit)",
+     "amount": 2950
+    },
+    {
+     "id": "b",
+     "label": "Montage",
+     "amount": 650
+    }
+   ],
+   "number": "2026-0021",
+   "paid_at": "2026-10-09T11:21:28.924Z",
+   "sent_at": "2026-10-09T11:21:08.275Z",
+   "due_date": "2026-10-23",
+   "created_at": "2026-10-07T13:00:00.000Z"
+  },
+  "install_preferred": null
+ },
+ {
+  "id": "34569b9f-7834-4daf-b51a-9ea0ceed7ca4",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-07T08:00:00+00:00",
+  "customer": {
+   "city": "Breda",
+   "name": "Anouk Verbeek",
+   "email": "anouk.1@example.nl",
+   "phone": "06 00000000",
+   "street": "Voorbeeldstraat 3",
+   "postcode": "4811 AB"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-09",
+   "time": "10:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "59613f7fb2354081ae563814be239ebe",
+  "consent_at": "2026-10-07T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-07T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-09T11:15:34.612Z",
+    "text": "Voorstel met 1 moment(en) gemaakt voor de klant"
+   },
+   {
+    "at": "2026-10-09T11:16:11.657Z",
+    "text": "Bezoek ingepland (vr 9 okt 10:00, Sven Bakker)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-09",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "d6a485d7-d763-43bc-a039-ed16ccc44ebd",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-08T08:00:00+00:00",
+  "customer": {
+   "city": "Tilburg",
+   "name": "Rik Smeets",
+   "email": "rik@example.nl",
+   "phone": "06 27182818",
+   "street": "Oude Dijk 4",
+   "postcode": "5038 PM"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "bedroom",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "unknownFactors": []
+  },
+  "status": "visit_planned",
+  "appointment": {
+   "date": "2026-10-15",
+   "time": "12:00",
+   "technician": "Sven Bakker"
+  },
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "7f6c08a44c764ad782156b38e1e93158",
+  "consent_at": "2026-10-08T08:00:00+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-08T08:00:00.000Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-08T08:00:00.000Z",
+    "text": "Richtlijnofferte berekend"
+   },
+   {
+    "at": "2026-10-10T10:19:27.231Z",
+    "text": "Bezoek ingepland (do 15 okt 12:00, Sven Bakker)"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-15",
+    "part": "afternoon"
+   },
+   "second": {
+    "date": "2026-10-16",
+    "part": "any"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "578d13dc-42ea-4223-ade1-c9549500726a",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-09T17:31:04.493+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Taha Cifci",
+   "email": "tahacifci30@gmail.com",
+   "phone": "0611200883",
+   "street": "Villa Waterranonkel 67",
+   "postcode": "5146 AP"
+  },
+  "answers": {
+   "area": "lt20",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "unknownFactors": []
+  },
+  "status": "new",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "5c8ffc26b57a4db4a98cec19efaebdb8",
+  "consent_at": "2026-10-09T17:31:04.493+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-09T17:31:04.493Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-09T17:31:04.493Z",
+    "text": "Prijsindicatie berekend"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-12",
+    "part": "morning"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "4b9d9ec5-5962-4e83-8021-5361abe0add1",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-10T17:38:53.031+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Ali Cifci",
+   "email": "A.cifci@ziggo.nl",
+   "phone": "+31642207325",
+   "street": "Villa Waterranonkel 67",
+   "postcode": "5146 AP"
+  },
+  "answers": {
+   "area": "lt20",
+   "spaces": "bedroom",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "lines": [
+    {
+     "q": "spaces",
+     "label": "Ruimtes",
+     "value": "Slaapkamer",
+     "amount": 0
+    },
+    {
+     "q": "area",
+     "label": "Oppervlakte",
+     "value": "Minder dan 20 m²",
+     "amount": 0
+    },
+    {
+     "q": "property",
+     "label": "Type woning",
+     "value": "Rijtjeswoning",
+     "amount": 0
+    },
+    {
+     "q": "outdoor",
+     "label": "Plek buitenunit",
+     "value": "Aan de gevel",
+     "amount": 0
+    },
+    {
+     "q": "existing",
+     "label": "Bestaande installatie",
+     "value": "Nee, een nieuwe installatie",
+     "amount": 0
+    }
+   ],
+   "unknownFactors": []
+  },
+  "status": "new",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "9016af63452f44119c7abd1c2b257208",
+  "consent_at": "2026-10-10T17:38:53.031+00:00",
+  "customer_photos": [
+   "b85269c2-7dac-4a64-b245-0901edec82e9.jpg"
+  ],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-10T17:38:53.031Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-10T17:38:53.031Z",
+    "text": "1 foto(s) meegestuurd door klant"
+   },
+   {
+    "at": "2026-10-10T17:38:53.031Z",
+    "text": "Prijsindicatie berekend"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-12",
+    "part": "morning"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "520fdd9c-0b61-4daa-baa3-5b81c742975e",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-10T18:22:36.425+00:00",
+  "customer": {
+   "city": "Wolluk",
+   "name": "Tahir Kurak",
+   "email": "ikvinddateenmaneneenmannietkan@gmail.com",
+   "phone": "0631693169",
+   "street": "Talmastraat 31",
+   "postcode": "3169AM"
+  },
+  "answers": {
+   "area": "20_30",
+   "spaces": "living",
+   "outdoor": "balcony",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2400,
+   "min": 1950,
+   "lines": [
+    {
+     "q": "spaces",
+     "label": "Ruimtes",
+     "value": "Woonkamer",
+     "amount": 0
+    },
+    {
+     "q": "area",
+     "label": "Oppervlakte",
+     "value": "20 tot 30 m²",
+     "amount": 250
+    },
+    {
+     "q": "property",
+     "label": "Type woning",
+     "value": "Appartement",
+     "amount": 0
+    },
+    {
+     "q": "outdoor",
+     "label": "Plek buitenunit",
+     "value": "Op het balkon",
+     "amount": 0
+    },
+    {
+     "q": "existing",
+     "label": "Bestaande installatie",
+     "value": "Nee, een nieuwe installatie",
+     "amount": 0
+    }
+   ],
+   "unknownFactors": []
+  },
+  "status": "new",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "f9c931ffed8748aaa0152adef856a979",
+  "consent_at": "2026-10-10T18:22:36.425+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-10T18:22:36.425Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-10T18:22:36.425Z",
+    "text": "Prijsindicatie berekend"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-22",
+    "part": "afternoon"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "6598eb86-dc37-4e70-99a6-b5befdef9e58",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-11T11:48:56.483+00:00",
+  "customer": {
+   "city": "Ede",
+   "name": "Karel Visser",
+   "email": "joaquinschot1@gmail.com",
+   "phone": "+31633915036",
+   "street": "Weerdestein 32",
+   "postcode": "6714 CS"
+  },
+  "answers": {
+   "area": "lt20",
+   "spaces": "living",
+   "outdoor": "balcony",
+   "existing": "none",
+   "property": "apartment"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "lines": [
+    {
+     "q": "spaces",
+     "label": "Ruimtes",
+     "value": "Woonkamer",
+     "amount": 0
+    },
+    {
+     "q": "area",
+     "label": "Oppervlakte",
+     "value": "Minder dan 20 m²",
+     "amount": 0
+    },
+    {
+     "q": "property",
+     "label": "Type woning",
+     "value": "Appartement",
+     "amount": 0
+    },
+    {
+     "q": "outdoor",
+     "label": "Plek buitenunit",
+     "value": "Op het balkon",
+     "amount": 0
+    },
+    {
+     "q": "existing",
+     "label": "Bestaande installatie",
+     "value": "Nee, een nieuwe installatie",
+     "amount": 0
+    }
+   ],
+   "unknownFactors": []
+  },
+  "status": "new",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "e48d8122bcc74399b2b05f53ce396288",
+  "consent_at": "2026-10-11T11:48:56.483+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-11T11:48:56.483Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-11T11:48:56.483Z",
+    "text": "Prijsindicatie berekend"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-12",
+    "part": "morning"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ },
+ {
+  "id": "ec6612c7-2924-43ee-b2e3-be1a00b8ca81",
+  "company_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2026-10-11T15:14:33.153+00:00",
+  "customer": {
+   "city": "Waalwijk",
+   "name": "Gert-Jan De Zib",
+   "email": "gertjanzibbi@gmail.com",
+   "phone": "0611223412",
+   "street": "Villa Waterranonkel 67",
+   "postcode": "5146 AP"
+  },
+  "answers": {
+   "area": "lt20",
+   "spaces": "living",
+   "outdoor": "facade",
+   "existing": "none",
+   "property": "terraced"
+  },
+  "estimate": {
+   "max": 2150,
+   "min": 1700,
+   "lines": [
+    {
+     "q": "spaces",
+     "label": "Ruimtes",
+     "value": "Woonkamer",
+     "amount": 0
+    },
+    {
+     "q": "area",
+     "label": "Oppervlakte",
+     "value": "Minder dan 20 m²",
+     "amount": 0
+    },
+    {
+     "q": "property",
+     "label": "Type woning",
+     "value": "Rijtjeswoning",
+     "amount": 0
+    },
+    {
+     "q": "outdoor",
+     "label": "Plek buitenunit",
+     "value": "Aan de gevel",
+     "amount": 0
+    },
+    {
+     "q": "existing",
+     "label": "Bestaande installatie",
+     "value": "Nee, een nieuwe installatie",
+     "amount": 0
+    }
+   ],
+   "unknownFactors": []
+  },
+  "status": "new",
+  "appointment": null,
+  "tech_check": {
+   "notes": "",
+   "photos": [],
+   "mounting": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "meter_box": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "wall_type": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "outdoor_unit": {
+    "value": "unknown",
+    "source": "unknown"
+   },
+   "pipe_distance": {
+    "value": "unknown",
+    "source": "unknown"
+   }
+  },
+  "quote": null,
+  "token": "b2203383bd614a618b8f3cbb2a7630c4",
+  "consent_at": "2026-10-11T15:14:33.153+00:00",
+  "customer_photos": [],
+  "notes": [],
+  "log": [
+   {
+    "at": "2026-10-11T15:14:33.153Z",
+    "text": "Klant heeft het formulier ingevuld"
+   },
+   {
+    "at": "2026-10-11T15:14:33.153Z",
+    "text": "Prijsindicatie berekend"
+   }
+  ],
+  "preferred": {
+   "first": {
+    "date": "2026-10-22",
+    "part": "morning"
+   }
+  },
+  "install_appointment": null,
+  "proposal": null,
+  "install": null,
+  "invoice": null,
+  "install_preferred": null
+ }
+]
